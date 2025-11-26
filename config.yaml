@@ -1,0 +1,9 @@
+llm:
+  model_name: "llama2"
+
+cache_pdf: true
+
+cpp_standard:
+  name: "C++ 2017"
+  pdf_url: "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf"
+  local_pdf_path: "data/standard/n4659.pdf"
